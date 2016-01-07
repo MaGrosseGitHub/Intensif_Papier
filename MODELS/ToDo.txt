@@ -1,1 +1,15 @@
-caca
+A modeliser :
+- boulettes de papier
+- origami bateau
+- origami avion
+- moutons
+- rochers
+- batiments en papier (solide et en décomposition)
+- ponton
+- volcan
+- montagnes
+- végétation ? (on peut peut etre le faire direct sur unreal)
+- tentacules
+- autre bateau ?
+- détritus
+- environnement (map)
